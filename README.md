@@ -6,7 +6,7 @@
 
 在线访问：[https://jaydhwid-boop.github.io/douban-viz/]
 
-源码仓库：[https://github.com/jaydhwid-boop/douban-viz]
+源码仓库：[https://github.com/jackdos20041102-oss/douban-viz.git]
 
 ---
 
