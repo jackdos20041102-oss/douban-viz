@@ -3,7 +3,9 @@
 课程作业 2：交互式可视化
 
 在线访问：[https://jaydhwid-boop.github.io/douban-viz/]
-源码仓库：https://github.com/jaydhwid-boop/douban-viz
+
+源码仓库：[https://github.com/jaydhwid-boop/douban-viz].
+
 ---
 
 ## 一、可视化方案旨在解答的问题
