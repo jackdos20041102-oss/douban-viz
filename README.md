@@ -2,6 +2,8 @@
 
 课程作业 2：交互式可视化
 
+姓名：周佳仪 学号：1320231093
+
 在线访问：[https://jaydhwid-boop.github.io/douban-viz/]
 
 源码仓库：[https://github.com/jaydhwid-boop/douban-viz]
